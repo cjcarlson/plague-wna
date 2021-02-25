@@ -22,7 +22,7 @@ C: Main models and attribution models
 |- C3 Wildlife attribution model.R
 '- C4 Human attribution model.R
 
-D - Data visualization
+D: Data visualization
 |- D1 Main figures.R
 |- D2 Partial dependence multipanel.R
 |- D3 Ternary.R
@@ -32,14 +32,14 @@ D - Data visualization
 |- D7 Alternate model 1 partial figures.R
 '- D8 pH GAMs.R
 
-E - Cross-validation on withheld data
+E: Cross-validation on withheld data
 '- E1 Cross-validation 2000 to 2005.R
 
-F - Generate alternate datasets
+F: Generate alternate datasets
 |- F1 Wildlife Alt2 Pseudoabsences.R
 '- F2 Wildlife Alt3 Just coyote.R
 
-G - Alternate models
+G: Alternate models
 |- G0 Reload environment - alt for elevation.R
 |- G1 Wildlife Alt1 full variables.R
 |- G2 Human Alt2 full variables.R
