@@ -17,10 +17,10 @@ B: Extract and generate model datasets
 
 C: Main models and attribution models
 |- C0 Reload environment.R
-|- C1 Wildlife baseline model
-|- C2 Human baseline model
-|- C3 Wildlife attribution model
-'- C4 Human attribution model
+|- C1 Wildlife baseline model.R
+|- C2 Human baseline model.R
+|- C3 Wildlife attribution model.R
+'- C4 Human attribution model.R
 
 D - Data visualization
 |- D1 Main figures.R
@@ -30,14 +30,14 @@ D - Data visualization
 |- D5 Alternate model maps.R
 |- D6 Spartials.R
 |- D7 Alternate model 1 partial figures.R
-'- D8 pH GAMs
+'- D8 pH GAMs.R
 
 E - Cross-validation on withheld data
-'- E1 Cross-validation 2000 to 2005
+'- E1 Cross-validation 2000 to 2005.R
 
 F - Generate alternate datasets
-|- F1 Wildlife Alt2 Pseudoabsences
-'- F2 Wildlife Alt3 Just coyote
+|- F1 Wildlife Alt2 Pseudoabsences.R
+'- F2 Wildlife Alt3 Just coyote.R
 
 G - Alternate models
 |- G0 Reload environment - alt for elevation.R
