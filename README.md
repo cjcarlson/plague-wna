@@ -2,6 +2,8 @@
 
 This repository contains the R scripts for Carlson, Bevins, and Schmid (2021) "Plague risk in the western United States over seven decades of environmental change", preprint forthcoming on bioRxiv. Primary data are available on reasonable request, while environmental data are all freely and openly available from public sources.
 
+**There's also a copy of the preprint available that's been compressed for legibility, as the main preprint is nearly impossible to scroll through due to the number of high-resolution maps and figures.**
+
 Scripts are organized into seven folders marking different stages of the pipeline:
 
 ```
